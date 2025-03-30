@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import joblib
 from datetime import date
-
-
 import matplotlib.pyplot as plt
 from io import BytesIO
 
@@ -13,9 +11,9 @@ st.set_page_config(page_title="Airbnb Price Estimator", layout="wide", initial_s
 
 
 model = joblib.load(
-    "/Assignments/Assignment_1/airbnb_price_model.pkl")
+    "./Prototyping_Emre_Ozener/Assignment_1/airbnb_price_model.pkl")
 preprocess_pipe = joblib.load(
-    "/Assignments/Assignment_1/preprocessing_pipeline.pkl")
+    "./Prototyping_Emre_Ozener/Assignment_1/preprocessing_pipeline.pkl")
 data_path = "https://github.com/jnin/information-systems/raw/refs/heads/main/data/Airbnb_Hackathon_IA1_2024.zip"
 df = pd.read_csv(data_path)
 

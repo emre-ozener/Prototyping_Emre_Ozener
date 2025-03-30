@@ -1,0 +1,3 @@
+microsoft_stream_link = https://urledu-my.sharepoint.com/:v:/g/personal/emre_ozener_alumni_esade_edu/EcO67uVyQ41Gtj_YAD9wJWkBOgcxCGWNoHSXFLmrrFQXYA?e=lDrAdT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+youtube_link (higher quality) = https://youtu.be/Rdqd4RoAVM4
